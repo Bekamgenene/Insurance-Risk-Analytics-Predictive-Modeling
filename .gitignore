@@ -198,3 +198,6 @@ cython_debug/
 !/data/.gitignore
 
 /data-storage
+
+.dvc/cache/
+dvc_storage/
