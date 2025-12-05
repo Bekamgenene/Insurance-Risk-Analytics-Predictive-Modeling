@@ -200,4 +200,4 @@ cython_debug/
 /data-storage
 
 .dvc/cache/
-dvc_storage/
+dvc_storage\
