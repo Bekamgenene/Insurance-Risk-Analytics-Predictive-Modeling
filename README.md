@@ -59,10 +59,6 @@ The EDA is implemented in `notebooks/01_task1_eda_v2.ipynb`, which includes:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run notebooks: Use Jupyter to execute `notebooks/01_task1_eda_v2.ipynb`
 
-## Contributing
-
-Follow standard Git workflows: create feature branches, submit pull requests, and ensure CI passes.
-
 # contributor
 Bekam Genene
 
